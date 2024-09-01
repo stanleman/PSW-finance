@@ -22,14 +22,14 @@ Ensure you have the following installed on your machine:
    cd PSW-finance
    ```
 
-2. ***Install dependencies:***
+2. **Install dependencies:**
    ```
    npm install
    # or
    yarn install
    ```
 
-3. ***Setting up .env.local***
+3. **Setting up .env.local**
    ```
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
    CLERK_SECRET_KEY=your-clerk-secret-key
@@ -45,7 +45,7 @@ Ensure you have the following installed on your machine:
    ### Important Note!
    Replace the url in the drizzle.config.js file with your own database URL. I was unable to make it so that it reads the value from .env.local, even when i used dotenv. Apologies for the inconvenience!
 
-5. ### Running application
+4. **Running application**
    ```
    npm run dev
    # or
