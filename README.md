@@ -53,7 +53,10 @@ Ensure you have the following installed on your machine:
    NEXT_PUBLIC_DATABASE_URL=your-database-url
    ```
 
-### Running application
+   ### Important Note!
+   Replace the url in the drizzle.config.js file with your own database URL. I was unable to make it so that it reads the value from .env.local, even when i used dotenv. Apologies for the inconvenience!
+
+5. ### Running application
    ```
    npm run dev
    # or
