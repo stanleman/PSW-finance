@@ -1,4 +1,4 @@
-# Next.js App with Drizzle ORM and Neon Database
+# Personal Finance Tracker - Cheah Loke Yin
 
 This is a Next.js application using Drizzle ORM for database management, Neon for PostgreSQL hosting, and Clerk for authentication.
 
