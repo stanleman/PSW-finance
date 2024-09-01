@@ -43,9 +43,9 @@ Ensure you have the following installed on your machine:
    ```
 
    ### Important Note!
-   Replace the url in the drizzle.config.js file with your own database URL. I was unable to make it so that it reads the value from .env.local, even when i used dotenv. Apologies for the inconvenience!
+   > Replace the url in the drizzle.config.js file with your own database URL. I was unable to make it so that it reads the value from .env.local, even when i used dotenv. Apologies for the inconvenience!
 
-4. **Running application**
+5. **Running application**
    ```
    npm run dev
    # or
