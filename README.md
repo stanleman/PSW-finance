@@ -18,7 +18,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/stanleman/https://github.com/stanleman/PSW-finance.git
+   git clone /https://github.com/stanleman/PSW-finance.git
    cd PSW-finance
    ```
 
